@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=280&section=header&text=TIWA%20DELAK%20NKOA&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=280&section=header&text=TIWA%20DELAN%20NDIKA&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=20" width="100%"/>
 </div>
 
 <p align="center">
@@ -23,9 +23,9 @@
 <div align="center">
 
 ```typescript
-const tiwaDevOps = {
+const tiwastange = {
     identity: {
-        name: "Tiwa Delak Nkoa",
+        name: "TIWA DELAN NDIKA",
         role: "DevOps Engineer & Cloud Architect",
         location: "Buea, Cameroon 🇨🇲",
         pronouns: "He/Him"
@@ -38,11 +38,11 @@ const tiwaDevOps = {
     },
     
     cloudExpertise: {
-        orchestration: ["Docker", "Kubernetes", "Docker Compose", "Helm"],
+        orchestration: ["Docker", "Kubernetes", "Docker Compose"],
         IaC: ["Terraform", "Ansible", "CloudFormation"],
-        cloud: ["AWS", "EC2", "S3", "RDS", "Lambda", "CloudWatch"],
-        cicd: ["GitHub Actions", "Jenkins", "GitLab CI"],
-        monitoring: ["Grafana", "Prometheus", "CloudWatch", "ELK Stack"],
+        cloud: ["AWS", "EC2", "S3", "IAM", "Lambda", "CloudWatch"],
+        cicd: ["GitHub Actions", "Jenkins"],
+        monitoring: ["Grafana", "Prometheus", "CloudWatch", "ELK Slack"],
         networking: ["Nginx", "Traefik", "Load Balancers", "VPC"],
         automation: ["Bash", "Python", "N8N", "Cron Jobs"]
     },
