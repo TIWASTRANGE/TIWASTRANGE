@@ -1,227 +1,291 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24,29&height=200&section=header&text=TIWASTRANGE&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:06B6D4&height=300&section=header&text=TIWA%20DELAK%20NKOA&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Welcome+to+my+Digital+Workspace!+👋;DevOps+Engineer+%26+Full+Stack+Developer+🚀;Building+Scalable+Cloud+Infrastructure+☁️;Automating+Everything+I+Can+🤖;From+Code+to+Deployment+💻➡️🌐;Let's+Ship+Something+Epic+Together!+🔥)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=🚀+Building+Production-Grade+Cloud+Infrastructure;⚡+Automating+Deployments+%26+CI%2FCD+Pipelines;🔧+Infrastructure+as+Code+Enthusiast;☁️+AWS+Certified+%7C+Terraform+%7C+Docker+Expert;💻+Full+Stack+Developer+with+DevOps+Mindset;🌐+Deploying+Scalable+%26+Resilient+Systems)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
-
-## 🚀 About Me
-
-<div align="center">
-
-| 👨‍💻 | Information |
-|:---:|:---|
-| 📍 **Location** | Buea, Cameroon 🇨🇲 |
-| 💼 **Role** | DevOps Engineer & Full Stack Developer |
-| 🎯 **Passion** | Cloud Infrastructure, Automation, Mobile & Web Development |
-| 🗣️ **Languages** | JavaScript, TypeScript, Python, Dart, Bash |
-| 📚 **Currently Mastering** | Advanced DevOps Pipelines, Infrastructure as Code, N8N Automation |
-| 🔨 **Working On** | Cloud-native applications, CI/CD automation, Scalable architectures |
-| ⚡ **Fun Fact** | I automate tasks before they become repetitive 🤖 |
-| 💭 **Motto** | Code, Deploy, Monitor, Repeat 🔄 |
-
-</div>
 
 <div align="center">
   
   <a href="https://github.com/TIWASTRANGE">
-    <img src="https://img.shields.io/github/followers/TIWASTRANGE?label=Followers&style=social" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/badge/GitHub-TIWASTRANGE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://github.com/TIWASTRANGE">
-    <img src="https://komarev.com/ghpvc/?username=TIWASTRANGE&color=F75C7E&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/TIWASTRANGE?label=Followers&style=for-the-badge&color=EC4899&logo=github&logoColor=white" alt="Followers"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=TIWASTRANGE&color=06B6D4&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Deploying-00D084?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Arsenal
+<div align="center">
+
+```typescript
+const tiwaDeveloper = {
+    name: "Tiwa Delak Nkoa",
+    title: "DevOps Engineer & Full Stack Developer",
+    location: "Buea, Cameroon 🇨🇲",
+    
+    workingOn: [
+        "Containerizing & orchestrating microservices",
+        "Building CI/CD pipelines with GitHub Actions",
+        "Automating infrastructure deployment with Terraform & Ansible",
+        "Implementing Blue-Green deployment strategies"
+    ],
+    
+    expertise: {
+        devOps: ["Docker", "Terraform", "Ansible", "AWS", "Nginx", "Traefik", "Grafana"],
+        backend: ["Node.js", "Express", "FastAPI", "Python"],
+        frontend: ["React", "Vue.js", "Tailwind CSS v4.1"],
+        mobile: ["Flutter", "React Native (Expo & CLI)"],
+        databases: ["MongoDB", "AWS RDS"],
+        automation: ["Bash Scripting", "Python Scripts", "N8N Workflows"],
+        monitoring: ["Grafana", "CloudWatch", "Prometheus"]
+    },
+    
+    currentFocus: "Mastering Kubernetes & Advanced AWS Architecture",
+    philosophy: "Automate everything. Monitor everything. Iterate continuously.",
+    funFact: "I containerize applications before I've had my morning coffee ☕🐳"
+};
+```
+
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Tech Stack & Arsenal</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
+### 🔥 DevOps & Cloud Infrastructure
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=docker,terraform,ansible,aws,linux,nginx,grafana,kubernetes,jenkins,githubactions&theme=dark&perline=10" alt="DevOps Tools"/>
 </p>
 
-### 🎨 Frontend Development
+### 💻 Full Stack Development
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,python,fastapi,tailwind,flutter,dart,mongodb&theme=dark&perline=10" alt="Development Stack"/>
 </p>
 
-### ⚙️ Backend Development
+### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### ☁️ DevOps & Cloud (My Playground!)
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-### 🧰 Tools & IDEs
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,bash,cpp,html,css,git,vscode&theme=dark&perline=10" alt="Languages"/>
 </p>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TIWASTRANGE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=F75C7E&icon_color=70A5FD&text_color=a9b1d6&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TIWASTRANGE&theme=tokyonight&hide_border=true&background=1a1b27&stroke=F75C7E&ring=70A5FD&fire=F75C7E&currStreakLabel=70A5FD" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIWASTRANGE&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=F75C7E&text_color=a9b1d6&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TIWASTRANGE&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=F75C7E&line=70A5FD&point=a9b1d6&area=true" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TIWASTRANGE&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&title_color=F75C7E&text_color=a9b1d6&icon_color=70A5FD" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-## 🎯 Current Focus & Mission
+<h2 align="center">🎯 What I'm Currently Up To</h2>
 
 <div align="center">
 
-### 📚 Deep Diving Into
-**Advanced Terraform Modules** • **CI/CD Pipeline Optimization** • **Kubernetes Orchestration** • **N8N Workflow Automation**
+<table>
+<tr>
+<td width="50%">
 
 ### 🚀 Building
-**Cloud-Native Applications** • **Automated Deployment Pipelines** • **Infrastructure Monitoring Dashboards**
+- **Production CI/CD Pipelines** for rapid deployment
+- **Infrastructure as Code** templates for reusable architectures  
+- **Monitoring & Observability** dashboards with Grafana
+- **Automated deployment workflows** with N8N
+- **Containerized microservices** for scalability
 
-### 🤝 Open To
-**DevOps Collaborations** • **Open Source Contributions** • **Cloud Architecture Projects** • **Automation Challenges**
+</td>
+<td width="50%">
 
-### 📖 Learning Path
+### 📚 Learning & Exploring
+- Advanced **Kubernetes orchestration** patterns
+- **Multi-cloud strategies** & hybrid deployments
+- **GitOps workflows** with ArgoCD
+- **Service mesh** implementations (Istio)
+- **Infrastructure security** best practices
 
-- Infrastructure as Code Best Practices
-- Advanced AWS Services & Architecture
-- Observability & Monitoring Strategies
-- N8N Advanced Automation Workflows
-
-### 🎯 2025 Goals
-
-| Goal | Status |
-|:---|:---:|
-| 🔧 Master N8N for complex workflows | 🟡 In Progress |
-| ☁️ Deploy 5+ production cloud apps | 🟢 On Track |
-| 🤖 Build 10+ automation scripts | 🟢 Active |
-| 📚 Share DevOps knowledge | 🟡 Starting |
-| 🌟 Contribute to DevOps OSS | 🔴 Planned |
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 💼 Featured Projects
+<h2 align="center">📊 GitHub Performance Metrics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TIWASTRANGE&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1F2937&title_color=8B5CF6&icon_color=EC4899&text_color=E5E7EB&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=TIWASTRANGE&theme=midnight-purple&hide_border=true&background=1F2937&stroke=8B5CF6&ring=EC4899&fire=06B6D4&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIWASTRANGE&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1F2937&title_color=8B5CF6&text_color=E5E7EB&langs_count=10&hide=jupyter%20notebook" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TIWASTRANGE&theme=high-contrast&hide_border=true&bg_color=1F2937&color=8B5CF6&line=EC4899&point=06B6D4&area=true&area_color=8B5CF6" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TIWASTRANGE&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7&title_color=8B5CF6&text_color=E5E7EB&icon_color=EC4899" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<h2 align="center">🏗️ Featured DevOps & Cloud Projects</h2>
 
 <div align="center">
 
-<!-- Replace these with your actual DevOps/featured project repositories -->
-<a href="https://github.com/TIWASTRANGE/Random_Password_Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TIWASTRANGE&repo=Random_Password_Generator&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=F75C7E&icon_color=70A5FD&text_color=a9b1d6" alt="Password Generator"/>
+<table>
+<tr>
+<td width="50%">
+
+### 🐳 Docker Deployment Automation
+Automated application deployment using Docker containers with Nginx as reverse proxy. Implemented containerization strategies for microservices architecture using Docker Compose for multi-container applications.
+
+**Tech:** `Docker` `Nginx` `Bash` `Docker Compose`
+
+</td>
+<td width="50%">
+
+### 🟢 Blue-Green Architecture Implementation  
+Implemented Blue-Green deployment strategy to execute zero-downtime deployments and high-speed rollback capabilities. Architected load balancers and new state cloning.
+
+**Tech:** `AWS` `Terraform` `Load Balancing` `High Availability`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ CI/CD Pipeline Implementation
+Built and configured automated testing/CI pipeline using GitHub Actions in HNG13. Automated build, testing, and deployment processes with 100% success rate.
+
+**Tech:** `GitHub Actions` `CI/CD` `Docker` `Automated Testing`
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud VPC CLI Tool
+Built a command-line tool for Python demonstrating Virtual Private Cloud (VPC) functionality with AWS-like features. Managing network environments including VPCs, subnets, security groups, and network segmentation.
+
+**Tech:** `Python` `CLI Development` `Networking` `AWS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Random Password Generator
+Built with Flutter - A secure password generation tool with customizable parameters for creating strong, cryptographically random passwords.
+
+**Tech:** `Flutter` `Dart` `Mobile Development`
+
+</td>
+<td width="50%">
+
+### 🍔 Food & Fashion Websites
+Responsive web applications built with modern HTML/CSS showcasing frontend development skills with clean, maintainable code.
+
+**Tech:** `HTML5` `CSS3` `Responsive Design`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">💬 What Mentors & Peers Say</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+> *"Exceptional work on the BlueGreen Deployment Orchestration project. The presentation on the project was top of list and it provided Non-Tech standout participants in the DevOps track."*
+> 
+> **HCF Chaos** - HNG13 DevOps Track Mentor
+
+</td>
+<td width="50%" align="center">
+
+> *"I was an exceptional DevOps engineer who strives to learn everyday and ensures to meet up with fast requirements and deadlines. This is the of kind of Engineer every team needs."*
+> 
+> **Yeri** - HNG13 Cloud Mentor
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<h2 align="center">🎓 Certifications & Achievements</h2>
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| 🏆 **HNG13 DevOps Internship** | Built with passion during HNG13 Internship 2025 - Deployed to DevOps and Cloud Services |
+| ⚡ **Production Deployments** | Successfully deployed multiple production-grade applications to AWS |
+| 🐳 **Docker Expert** | Containerized 10+ applications with optimized multi-stage builds |
+| 📊 **Infrastructure Monitoring** | Implemented comprehensive monitoring solutions with Grafana |
+| 🔄 **CI/CD Pipelines** | Built automated pipelines reducing deployment time by 70% |
+
+</div>
+
+<br/>
+
+<h2 align="center">🤝 Let's Connect & Build Together</h2>
+
+<div align="center">
+
+<a href="mailto:tiwaelijah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tiwaelijah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/TIWASTRANGE/food_website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TIWASTRANGE&repo=food_website&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=F75C7E&icon_color=70A5FD&text_color=a9b1d6" alt="Food Website"/>
+<a href="https://linkedin.com/in/tiwa-delak">
+  <img src="https://img.shields.io/badge/LinkedIn-Tiwa%20Delak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/TIWASTRANGE">
+  <img src="https://img.shields.io/badge/GitHub-TIWASTRANGE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🤝 Let's Connect & Collaborate
+<h2 align="center">💭 Random DevOps Wisdom</h2>
 
 <div align="center">
   
-<!-- Update these links with your actual social profiles -->
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/your-twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://dev.to/your-username">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-</a>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Automation%20is%20not%20about%20replacing%20humans%2C%20it%27s%20about%20freeing%20them%20to%20do%20more%20creative%20work.&author=DevOps%20Philosophy)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
 <br/>
 
-## 💡 DevOps Wisdom
-
 <div align="center">
-  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+### 🐍 Contribution Activity
 
-<br/>
-
-## 📈 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/TIWASTRANGE/TIWASTRANGE/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TIWASTRANGE/TIWASTRANGE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TIWASTRANGE/TIWASTRANGE/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TIWASTRANGE/TIWASTRANGE/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -230,17 +294,19 @@
 ---
 
 <div align="center">
-  
-### 💬 "Automate everything, monitor everything, improve everything"
 
-![Made with Passion](https://img.shields.io/badge/Made%20with-💜%20Passion-F75C7E?style=for-the-badge)
-![Powered by Coffee & Cloud](https://img.shields.io/badge/Powered%20by-☕%20%26%20☁️-70A5FD?style=for-the-badge)
-![Built to Scale](https://img.shields.io/badge/Built%20to-📈%20Scale-7B68EE?style=for-the-badge)
+### 💜 "Build it. Ship it. Monitor it. Improve it. Repeat."
+
+<img src="https://img.shields.io/badge/Built%20with-💜%20%26%20☕-8B5CF6?style=for-the-badge" alt="Built with love"/>
+<img src="https://img.shields.io/badge/Deployed%20on-☁️%20Cloud-EC4899?style=for-the-badge" alt="Cloud"/>
+<img src="https://img.shields.io/badge/Automated-🤖%20100%25-06B6D4?style=for-the-badge" alt="Automated"/>
+
+<br/><br/>
+
+**⭐ Star my repos if you find them useful! | 🤝 Open to collaborate on DevOps & Cloud projects**
 
 <br/>
 
-**Thanks for stopping by! Let's build something scalable and ship it to the cloud! 🚀☁️**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24,29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:06B6D4&height=120&section=footer" width="100%"/>
 
 </div>
