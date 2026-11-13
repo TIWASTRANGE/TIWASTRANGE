@@ -55,6 +55,17 @@ const tiwastange = {
         languages: ["JavaScript", "TypeScript", "Python", "Dart", "Bash", "C++"]
     },
     
+    projectManagement: {
+        role: "Project Manager @ DIGISOL Group (Aug 2025 – Feb 2026)",
+        strengths: ["Cross-functional Teams", "Timelines & Milestones", "Budget Control", "Resource Allocation", "Client Liaison"],
+        certification: "Google Project Management Certificate"
+    },
+    
+    customerKnowledge: {
+        experience: ["Brand Ambassador @ Camtel", "House Agent @ Property Trust", "Client Hand-overs @ DIGISOL"],
+        strengths: ["Customer Support", "CRM Systems", "Explaining tech to non-technical clients"]
+    },
+    
     learningPath: {
         mastering: ["Kubernetes Advanced Patterns", "Service Mesh (Istio)", "GitOps (ArgoCD)"],
         exploring: ["AWS Advanced Architectures", "Multi-Cloud Strategies", "SRE Practices"],
@@ -216,7 +227,7 @@ Architected and implemented Blue-Green deployment infrastructure enabling zero-d
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"/> CI/CD Pipeline Engineering
 
-Built production-grade automated testing and deployment pipeline using GitHub Actions for HNG13 program. Implemented automated build, test, and deployment workflows with comprehensive error handling and notifications.
+Built production-grade automated testing and deployment pipeline using GitHub Actions for a backend project. Implemented automated build, test, and deployment workflows with comprehensive error handling and notifications.
 
 **Stack:** `GitHub Actions` `Docker` `Automated Testing` `Deployment Automation`
 
@@ -260,6 +271,54 @@ Built modern, responsive web applications showcasing frontend expertise with cle
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="25"/> SaaS Multi-User Portfolio Platform
+
+Built and deployed a fully functional SaaS system that lets users manage their portfolio content through an admin dashboard and share their public portfolio URLs.
+
+**Stack:** `MongoDB` `Express` `React` `Node.js` `SaaS`
+
+**Impact:** Multi-user platform with shareable public portfolios
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="25"/> School Management ERP (OpenTek)
+
+Contributed to a full-stack ERP system using the MERN stack for school administration, student management and course scheduling in a collaborative development team.
+
+**Stack:** `MERN Stack` `ERP` `Team Collaboration`
+
+**Context:** OpenTek internship
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="25"/> Mobile Attendance System
+
+Developing a Flutter mobile application with facial recognition and geofencing for automated student attendance tracking with real-time data management.
+
+**Stack:** `Flutter` `Dart` `Facial Recognition` `Geofencing`
+
+**Status:** In progress
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="25"/> Network Infrastructure @ DIGISOL
+
+Conducted site surveys, installed and configured CCTV security systems and Starlink Internet over Satellite, configured wireless access points and tested end-to-end connectivity.
+
+**Stack:** `Starlink` `CCTV` `Wireless APs` `Networking`
+
+**Impact:** Reliable connectivity & security for client sites
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -281,7 +340,7 @@ Built modern, responsive web applications showcasing frontend expertise with cle
 > *"Exceptional work on the BlueGreen Deployment Orchestration project. The presentation was top of the list and it provided Non-Tech standout participants in the DevOps track."*
 
 **— HCF Chaos**  
-*HNG13 DevOps Track Mentor*
+*DevOps Track Mentor*
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -291,7 +350,7 @@ Built modern, responsive web applications showcasing frontend expertise with cle
 > *"I was an exceptional DevOps engineer who strives to learn everyday and ensures to meet up with fast requirements and deadlines. This is the kind of Engineer every team needs."*
 
 **— Yeri**  
-*HNG13 Cloud Mentor*
+*Cloud Mentor*
 
 </td>
 </tr>
@@ -309,7 +368,11 @@ Built modern, responsive web applications showcasing frontend expertise with cle
 
 | 🎯 Achievement | 📝 Description | ⭐ Impact |
 |:--------------|:---------------|:----------|
-| **🔥 HNG13 DevOps Internship** | Intensive 8-week program focused on production DevOps & Cloud | Top performer in DevOps track |
+| **🔥 DevOps Engineering Program** | Intensive 8-week program focused on production DevOps & Cloud | Top performer in DevOps track |
+| **📋 Project Manager @ DIGISOL** | Led cross-functional teams delivering client projects (Aug 2025 – Feb 2026) | On-time, on-budget milestone delivery |
+| **🎓 Google Project Management** | Professional Certificate – Coursera | Structured planning & delivery |
+| **🔐 Google Cybersecurity** | Professional Certificate – Coursera, plus Cisco Endpoint Security & Associate Cybersecurity Analyst | Security-first infrastructure |
+| **🤝 Customer Experience** | Camtel Brand Ambassador & Property Trust House Agent | Strong client relationships & support |
 | **⚡ Production Deployments** | Successfully deployed 10+ applications to AWS with zero incidents | 99.99% uptime maintained |
 | **🐳 Docker Mastery** | Containerized 15+ applications with optimized multi-stage builds | 40% image size reduction |
 | **📊 Monitoring Expert** | Implemented Grafana dashboards for 5+ production environments | Real-time observability achieved |
