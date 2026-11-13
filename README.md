@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=280&section=header&text=TIWA%20DELAN%20NDIKA&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full%20Stack%20Developer&descAlignY=52&descSize=20" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="Tiwa Delan Ndika — DevOps &amp; Cloud Engineer | Project Manager"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+Architecting+Cloud-Native+Solutions;⚡+Deploying+with+Zero-Downtime+%7C+100%25+Automation;🔧+Infrastructure+as+Code+%7C+GitOps+Workflows;☁️+AWS+Expert+%7C+Terraform+%7C+Kubernetes+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+Architecting+Cloud-Native+Solutions;⚡+Deploying+with+Zero-Downtime+%7C+100%25+Automation;🔧+Infrastructure+as+Code+%7C+GitOps+Workflows;☁️+AWS+Expert+%7C+Terraform+%7C+Kubernetes+Enthusiast" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -82,6 +82,8 @@ const tiwastange = {
 
 <br/>
 
+<img src="assets/divider.svg" width="100%"/>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Tech Arsenal & Expertise
@@ -117,6 +119,8 @@ const tiwastange = {
 </div>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%"/>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -162,6 +166,8 @@ const tiwastange = {
 
 <br/>
 
+<img src="assets/divider.svg" width="100%"/>
+
 <h1 align="center">
   📊 GitHub Performance Analytics
 </h1>
@@ -189,6 +195,8 @@ const tiwastange = {
 </div>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%"/>
 
 <h1 align="center">
   🏗️ Featured DevOps & Cloud Projects
@@ -325,6 +333,8 @@ Conducted site surveys, installed and configured CCTV security systems and Starl
 
 <br/>
 
+<img src="assets/divider.svg" width="100%"/>
+
 <h1 align="center">
   💬 What Industry Leaders Say
 </h1>
@@ -360,6 +370,8 @@ Conducted site surveys, installed and configured CCTV security systems and Starl
 
 <br/>
 
+<img src="assets/divider.svg" width="100%"/>
+
 <h1 align="center">
   🏆 Certifications & Milestones
 </h1>
@@ -383,24 +395,23 @@ Conducted site surveys, installed and configured CCTV security systems and Starl
 
 <br/>
 
+<img src="assets/divider.svg" width="100%"/>
+
 <h1 align="center">
   🤝 Let's Connect & Collaborate
 </h1>
 
 <div align="center">
 
-<a href="mailto:tiwaelijah@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tiwaelijah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-</a>
-<a href="https://linkedin.com/in/tiwa-delak-nkoa">
-  <img src="https://img.shields.io/badge/LinkedIn-Tiwa%20Delak%20Nkoa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/TIWASTRANGE">
-  <img src="https://img.shields.io/badge/GitHub-TIWASTRANGE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub"/>
-</a>
-<a href="https://twitter.com/TiwaDelak">
-  <img src="https://img.shields.io/badge/Twitter-@TiwaDelak-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-</a>
+<img src="assets/connect.svg" width="620" alt="Contact: ntiwa112@gmail.com · LinkedIn tiwa-delan-ndika-407857271 · Instagram @the_tiwa · Facebook Tiwa Ndika"/>
+
+<br/><br/>
+
+<a href="mailto:ntiwa112@gmail.com"><img src="https://img.shields.io/badge/Email-ntiwa112%40gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1224" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/tiwa-delan-ndika-407857271"><img src="https://img.shields.io/badge/LinkedIn-Tiwa%20Delan%20Ndika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1224" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/the_tiwa"><img src="https://img.shields.io/badge/Instagram-%40the__tiwa-C13584?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0B1224" alt="Instagram"/></a>
+<a href="https://www.facebook.com/search/top?q=Tiwa%20Ndika"><img src="https://img.shields.io/badge/Facebook-Tiwa%20Ndika-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0B1224" alt="Facebook"/></a>
+<a href="https://github.com/TIWASTRANGE"><img src="https://img.shields.io/badge/GitHub-TIWASTRANGE-818CF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1224" alt="GitHub"/></a>
 
 <br/><br/>
 
@@ -409,6 +420,8 @@ Conducted site surveys, installed and configured CCTV security systems and Starl
 </div>
 
 <br/>
+
+<img src="assets/divider.svg" width="100%"/>
 
 <h1 align="center">
   💭 DevOps Philosophy
@@ -441,7 +454,7 @@ Conducted site surveys, installed and configured CCTV security systems and Starl
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,17,20,24&height=200&section=footer&text=Let's%20Build%20Something%20Legendary&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <img src="assets/footer.svg" width="100%" alt="Automate everything. Monitor everything. Deploy fearlessly."/>
 </div>
 
 <div align="center">
