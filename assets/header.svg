@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Tiwa Delan Ndika — DevOps &amp; Cloud Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060B16"/>
+      <stop offset="0.55" stop-color="#0B1224"/>
+      <stop offset="1" stop-color="#120B24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1E293B" stroke-width="1"/>
+    </pattern>
+    <mask id="fadeMask">
+      <radialGradient id="mg" cx="0.5" cy="0.5" r="0.62">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="1" stop-color="#000"/>
+      </radialGradient>
+      <rect width="1200" height="320" fill="url(#mg)"/>
+    </mask>
+    <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+    <filter id="soft" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace; }
+    .sans { font-family: 'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif; }
+    .grid { animation: drift 14s linear infinite; }
+    @keyframes drift { from { transform: translate(0,0); } to { transform: translate(-32px,-32px); } }
+    .trace { stroke-dasharray: 6 14; animation: flow 3.2s linear infinite; }
+    .trace.r { animation-direction: reverse; animation-duration: 4.4s; }
+    @keyframes flow { to { stroke-dashoffset: -80; } }
+    .node { animation: pulse 2.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .node.d2 { animation-delay: .9s; } .node.d3 { animation-delay: 1.8s; }
+    @keyframes pulse { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: 1; transform: scale(1.6); } }
+    .name { fill: transparent; stroke: url(#accent); stroke-width: 1.2; stroke-dasharray: 900; stroke-dashoffset: 900;
+            animation: draw 2.4s cubic-bezier(.6,.05,.3,1) forwards, fill .9s ease 2.1s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fill { to { fill: #F8FAFC; stroke-width: 0; } }
+    .sweep { animation: sweep 6s ease-in-out 2.8s infinite; }
+    @keyframes sweep { 0% { transform: translateX(-420px); } 35%,100% { transform: translateX(1300px); } }
+    .fade { opacity: 0; animation: up .9s ease forwards; }
+    .f1 { animation-delay: 2.5s; } .f2 { animation-delay: 2.9s; } .f3 { animation-delay: 3.3s; }
+    @keyframes up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    .scan { animation: scan 5s linear infinite; }
+    @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(340px); } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .orb { animation: float 9s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translate(0,0); } 50% { transform: translate(40px,-14px); } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <ellipse class="orb" cx="600" cy="150" rx="420" ry="170" fill="url(#glow)"/>
+    <g mask="url(#fadeMask)">
+      <rect class="grid" x="0" y="0" width="1264" height="384" fill="url(#grid)"/>
+    </g>
+
+    <!-- circuit traces -->
+    <g fill="none" stroke-width="1.6" stroke-linecap="round" opacity=".75">
+      <path class="trace"   stroke="#22D3EE" d="M0 64 H140 L172 96 H300"/>
+      <path class="trace r" stroke="#818CF8" d="M0 256 H110 L150 216 H260 L284 192"/>
+      <path class="trace"   stroke="#C084FC" d="M1200 70 H1060 L1024 106 H930"/>
+      <path class="trace r" stroke="#22D3EE" d="M1200 250 H1080 L1040 210 H950"/>
+      <path class="trace"   stroke="#334155" d="M300 96 V40 H420"/>
+      <path class="trace r" stroke="#334155" d="M930 106 V44 H800"/>
+    </g>
+    <g>
+      <circle class="node"    cx="300" cy="96"  r="3.5" fill="#22D3EE"/>
+      <circle class="node d2" cx="284" cy="192" r="3.5" fill="#818CF8"/>
+      <circle class="node d3" cx="930" cy="106" r="3.5" fill="#C084FC"/>
+      <circle class="node"    cx="950" cy="210" r="3.5" fill="#22D3EE"/>
+      <circle class="node d2" cx="420" cy="40"  r="2.5" fill="#94A3B8"/>
+      <circle class="node d3" cx="800" cy="44"  r="2.5" fill="#94A3B8"/>
+    </g>
+
+    <!-- scanline -->
+    <rect class="scan" x="0" y="0" width="1200" height="2" fill="#22D3EE" opacity=".08"/>
+
+    <!-- prompt -->
+    <text class="mono fade f1" x="600" y="98" text-anchor="middle" font-size="15" fill="#64748B" letter-spacing="1">
+      <tspan fill="#22D3EE">tiwa@cloud</tspan><tspan fill="#475569">:</tspan><tspan fill="#818CF8">~</tspan><tspan fill="#475569">$ </tspan>whoami<tspan class="caret" fill="#22D3EE"> ▌</tspan>
+    </text>
+
+    <!-- name -->
+    <text class="sans name" x="600" y="172" text-anchor="middle" font-size="62" font-weight="800" letter-spacing="6">TIWA DELAN NDIKA</text>
+    <rect class="sweep" x="0" y="118" width="160" height="66" fill="url(#shine)" opacity=".35" transform="translate(-420 0)"/>
+
+    <!-- underline -->
+    <rect class="fade f2" x="480" y="192" width="240" height="2" rx="1" fill="url(#accent)" filter="url(#soft)"/>
+
+    <!-- roles -->
+    <text class="mono fade f2" x="600" y="232" text-anchor="middle" font-size="17" fill="#CBD5E1" letter-spacing="3">
+      DEVOPS &amp; CLOUD ENGINEER <tspan fill="#475569">//</tspan> PROJECT MANAGER
+    </text>
+    <text class="mono fade f3" x="600" y="266" text-anchor="middle" font-size="13" fill="#64748B" letter-spacing="2">
+      docker · aws · linux · ci/cd · prometheus · grafana — buea, cameroon
+    </text>
+
+    <rect x="0.5" y="0.5" width="1199" height="319" rx="18" fill="none" stroke="#1E293B"/>
+  </g>
+</svg>

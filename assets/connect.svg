@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" role="img" aria-label="Contact: ntiwa112@gmail.com, LinkedIn tiwa-delan-ndika-407857271, Instagram the_tiwa, Facebook Tiwa Ndika">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity=".55"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'JetBrains Mono','Fira Code',Consolas,'SFMono-Regular',Menlo,monospace; font-size: 15px; }
+    .k { fill: #64748B; } .v { fill: #E2E8F0; } .c { fill: #22D3EE; } .p { fill: #818CF8; } .m { fill: #475569; }
+    .ln { opacity: 0; animation: in .45s ease forwards; }
+    .l1{animation-delay:.3s}.l2{animation-delay:1.1s}.l3{animation-delay:1.5s}.l4{animation-delay:1.9s}.l5{animation-delay:2.3s}.l6{animation-delay:2.9s}
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    .cmd { clip-path: inset(0 100% 0 0); animation: type .7s steps(22) .3s forwards; }
+    @keyframes type { to { clip-path: inset(0 0 0 0); } }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .live { animation: live 2s ease-in-out infinite; }
+    @keyframes live { 50% { opacity: .3; } }
+  </style>
+
+  <rect x="1" y="1" width="758" height="248" rx="14" fill="#0B1224" stroke="url(#bd)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="758" height="38" rx="14" fill="#0F172A"/>
+  <rect x="1" y="26" width="758" height="13" fill="#0F172A"/>
+  <circle cx="26" cy="20" r="5.5" fill="#F87171" opacity=".85"/>
+  <circle cx="46" cy="20" r="5.5" fill="#FBBF24" opacity=".85"/>
+  <circle cx="66" cy="20" r="5.5" fill="#34D399" opacity=".85"/>
+  <text x="380" y="25" text-anchor="middle" class="m" style="font-size:13px">contact.sh — tiwa@cloud</text>
+  <circle class="live" cx="724" cy="20" r="4" fill="#34D399"/>
+
+  <g class="cmd"><text x="28" y="76"><tspan class="c">❯</tspan><tspan class="v"> ./contact --list</tspan></text></g>
+
+  <text class="ln l2" x="28" y="110"><tspan class="p">email    </tspan><tspan class="m">→ </tspan><tspan class="v">ntiwa112@gmail.com</tspan></text>
+  <text class="ln l3" x="28" y="138"><tspan class="p">linkedin </tspan><tspan class="m">→ </tspan><tspan class="v">in/tiwa-delan-ndika-407857271</tspan></text>
+  <text class="ln l4" x="28" y="166"><tspan class="p">instagram</tspan><tspan class="m"> → </tspan><tspan class="v">@the_tiwa</tspan></text>
+  <text class="ln l5" x="28" y="194"><tspan class="p">facebook </tspan><tspan class="m">→ </tspan><tspan class="v">Tiwa Ndika</tspan></text>
+
+  <text class="ln l6" x="28" y="226"><tspan class="k">✓ status: </tspan><tspan fill="#34D399">open to devops, cloud &amp; pm roles</tspan><tspan class="caret c"> ▌</tspan></text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#334155"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="p" x1="0" x2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .pulse { animation: run 4.5s cubic-bezier(.65,0,.35,1) infinite; }
+    @keyframes run { from { transform: translateX(-220px); } to { transform: translateX(1200px); } }
+    .dot { animation: beat 2.25s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes beat { 0%,100% { opacity: .4; transform: rotate(45deg) scale(1); } 50% { opacity: 1; transform: rotate(45deg) scale(1.3); } }
+  </style>
+  <rect x="0" y="11.5" width="1200" height="1" fill="url(#l)"/>
+  <rect class="pulse" x="0" y="11" width="220" height="2" rx="1" fill="url(#p)"/>
+  <rect class="dot" x="595" y="7" width="10" height="10" fill="#0B1224" stroke="#818CF8" stroke-width="1.5"/>
+</svg>
